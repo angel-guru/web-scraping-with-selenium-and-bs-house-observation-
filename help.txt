@@ -1,0 +1,5 @@
+This is web scraping project with python selenium and beautiful soup library for following website:
+
+https://www.zillow.com/ca/fsbo/
+
+This site is for house observation
